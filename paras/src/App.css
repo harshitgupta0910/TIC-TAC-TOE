@@ -541,6 +541,7 @@ body {
   .winner-counter {
     flex-direction: column;
     width: 100%;
+    
   }
 
   .winner-counter div {
@@ -580,7 +581,7 @@ body {
   top: 20px;
   left: 20px;
   padding: 10px 15px;
-  font-size: 16px;
+  font-size: 15px;
   background-color: #4CAF50;
   color: white;
   border: none;
